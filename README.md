@@ -5,7 +5,7 @@ This is a recreation of the Wordle game.
 It's my solution to the first project from "The Joy of React" course. Forked from  https://github.com/joy-of-react/project-wordle (see for the original instructions).
 
 ## Live Site
-TODO
+https://wordle-ten-xi.vercel.app/
 
 ## How to play
 
